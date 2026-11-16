@@ -282,4 +282,4 @@ www.example.com/m
 }
 ```
 
-출처: [디자인베이스 – 웹 디자이너가 알아야 할 필수 개념](https://designbase.co.kr/course/web-design-ui-foundations/lesson/web-design-1-3-2/?utm_source=chatgpt.com)
+출처: [디자인베이스 – 웹 디자이너가 알아야 할 필수 개념](https://designbase.co.kr/course/web-design-ui-foundations/lesson/web-design-1-3-2
